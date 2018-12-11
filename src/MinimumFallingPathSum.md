@@ -1,6 +1,4 @@
-# 931. Minimum Failing Path Sum
-
-https://leetcode.com/problems/minimum-falling-path-sum/
+# Minimum Failing Path Sum
 
 ```
 Given a square array of integers A, we want the minimum sum of a

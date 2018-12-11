@@ -1,6 +1,4 @@
-# 413. Arithmetic Slices
-
-https://leetcode.com/problems/arithmetic-slices/
+# Arithmetic Slices
 
 ```
 A sequence of number is called arithmetic if it consists of at least three elements

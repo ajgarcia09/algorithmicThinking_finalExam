@@ -1,6 +1,4 @@
-# 877. Stone Game
-
-https://leetcode.com/problems/stone-game/
+# Stone Game
 
 ```
 Alex and Lee play a game with piles of stones.

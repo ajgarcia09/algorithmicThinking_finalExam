@@ -1,6 +1,4 @@
-# 279. Perfect Squares
-
-https://leetcode.com/problems/perfect-squares/
+# Perfect Squares
 
 ```
 Given a positive integer n, find the least number of perfect square
