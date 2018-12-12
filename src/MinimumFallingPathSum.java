@@ -1,3 +1,9 @@
+/**
+ * @author Ana Garcia
+ * Algorithmic Thinking and Problem Solving
+ * Final Exam
+ * Last Modified on: December 10th, 2018
+ */
 public class MinimumFallingPathSum {
     public static void main(String[]args){
         int[][] A = {{1,1,1},

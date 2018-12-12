@@ -1,5 +1,9 @@
-import java.util.Arrays;
-
+/**
+ * @author Ana Garcia
+ * Algorithmic Thinking and Problem Solving
+ * Final Exam
+ * Last Modified on: December 11th, 2018
+ */
 public class PalindromicSubstrings {
     public static void main(String[]args){
         System.out.println(countSubstrings("aaa"));

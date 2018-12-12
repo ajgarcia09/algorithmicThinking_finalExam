@@ -1,3 +1,10 @@
+/**
+ * @author Ana Garcia
+ * Algorithmic Thinking and Problem Solving
+ * Final Exam
+ * Last Modified on: December 10th, 2018
+ */
+
 import java.util.Arrays;
 
 public class MaxLengthOfPairChain {

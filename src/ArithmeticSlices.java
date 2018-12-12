@@ -1,3 +1,9 @@
+/**
+ * @author Ana Garcia
+ * Algorithmic Thinking and Problem Solving
+ * Final Exam
+ * Last Modified on: December 10th, 2018
+ */
 public class ArithmeticSlices {
     public static void main(String[]args){
         int[] A = {1,3,5,7,9,15,20,25,28,29};
